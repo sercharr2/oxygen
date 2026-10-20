@@ -204,4 +204,4 @@ Oxygen es un proyecto de aprendizaje y **no está preparado para producción tal
 Proyecto docente de ejemplo para clases de DevOps y DevSecOps.
 
 ## Autores
-Irene Cid
+Sergio Charro
